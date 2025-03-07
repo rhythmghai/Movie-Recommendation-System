@@ -16,4 +16,3 @@ This project implements a **Recommendation System** that suggests items like mov
 - **Libraries**: Pandas, NumPy, Scikit-learn, TensorFlow  
 - **Tools**: Jupyter Notebook, Matplotlib, Seaborn  
 
-## 📂 Project Structure
